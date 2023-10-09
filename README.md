@@ -3,10 +3,10 @@
 Json-server is running at 
 ### https://ecommerce-data-dunk.onrender.com/
 
-<u> ## Admin Login Credentials: </u>
+## Admin Login Credentials:
 ## Email: admin@gmail.com
 ## Password: Admin123
-
-<u> ## Sample User Login Credentials: </u>
+<u></u>
+## Sample User Login Credentials:
 ## Email:user@gmail.com
 ## Password: User123
