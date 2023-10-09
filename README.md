@@ -6,3 +6,7 @@ Json-server is running at
 Admin Login Credentials:
 ### Email: admin@gmail.com
 ### Password: Admin123
+
+Sample User Login Credentials:
+### Email:user@gmail.com
+### Password: User123
